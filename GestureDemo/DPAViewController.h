@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DPAViewController : UIViewController
+@interface DPAViewController : UIViewController <UIGestureRecognizerDelegate>
 
 @end
